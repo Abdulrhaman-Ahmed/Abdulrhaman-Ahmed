@@ -2,7 +2,7 @@
 
 I’m **Abdulrhaman Ahmed**, a **Full-Stack Web Developer** specializing in building **high-quality, responsive, and user-focused web applications**. I have expertise in **React.js, Tailwind CSS, Node.js, HTML5, CSS3, Bootstrap, PHP, Laravel, MySQL**, and more. I focus on developing **clean, scalable, and performance-optimized solutions**.  
 
-I have worked on various projects including **booking systems, e-commerce platforms, corporate websites, and dashboards**, delivering **modern UI/UX, fast performance, and reliable functionality**.  
+I have worked on various projects including **e-commerce platforms and dashboards**, delivering **modern UI/UX, fast performance, and reliable functionality**.  
 
 I am passionate about writing **clean code, enhancing user experience**, and continuously improving my skills. My goal is always to create **professional digital experiences** that are **efficient, visually appealing, and easy to use**.  
 
