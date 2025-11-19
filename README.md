@@ -1,6 +1,12 @@
-# 💫 About Me:
-I’m Abdulrhaman Ahmed, a Front-End & Back-End Web Developer skilled in building high-quality, responsive, and user-focused web applications. I specialize in React.js, Tailwind CSS, Node.js, with strong experience in developing clean, scalable, and performance-optimized solutions.<br><br>I have worked on various projects such as booking systems, e-commerce platforms, corporate websites and dashboards, delivering modern UI/UX, fast performance, and reliable functionality.<br><br>I’m passionate about writing clean code, enhancing user experience, and continuously improving my skills. My goal is always to build professional digital experiences that are efficient, visually appealing, and easy to use.
+# 💫 About Me
 
+I’m **Abdulrhaman Ahmed**, a **Full-Stack Web Developer** specializing in building **high-quality, responsive, and user-focused web applications**. I have expertise in **React.js, Tailwind CSS, Node.js, HTML5, CSS3, Bootstrap, PHP, Laravel, MySQL**, and more. I focus on developing **clean, scalable, and performance-optimized solutions**.  
+
+I have worked on various projects including **booking systems, e-commerce platforms, corporate websites, and dashboards**, delivering **modern UI/UX, fast performance, and reliable functionality**.  
+
+I am passionate about writing **clean code, enhancing user experience**, and continuously improving my skills. My goal is always to create **professional digital experiences** that are **efficient, visually appealing, and easy to use**.  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-ahmed-299987389) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahman2452008@gmail.com) 
@@ -15,9 +21,9 @@ I’m Abdulrhaman Ahmed, a Front-End & Back-End Web Developer skilled in buildin
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![PHP](https://img.shields.io/badge/php-%237F7F7F.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ```dart
 class AboutMe {
   const myTools = {
