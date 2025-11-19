@@ -1,6 +1,8 @@
 #  About Me ✨
 
-I’m **Abdulrhaman Ahmed**, a **Full-Stack Web Developer** specializing in building **high-quality, responsive, and user-focused web applications**. I have expertise in **React.js, Tailwind CSS, Node.js, HTML5, CSS3, Bootstrap, PHP, Laravel, MySQL**, and more. I focus on developing **clean, scalable, and performance-optimized solutions**.  
+I’m **Abdulrhaman Ahmed**, a **Full-Stack Web Developer** specializing in building **high-quality, responsive, and user-focused web applications**.  
+I stay **up to date** with the latest web technologies, ensuring that every project I build follows modern standards and best practices.  
+I have expertise in **React.js, Tailwind CSS, Node.js, HTML5, CSS3, Bootstrap, PHP, Laravel, MySQL**, and more. I focus on developing **clean, scalable, and performance-optimized solutions**.  
 
 I have worked on various projects including **e-commerce platforms and dashboards**, delivering **modern UI/UX, fast performance, and reliable functionality**.  
 
