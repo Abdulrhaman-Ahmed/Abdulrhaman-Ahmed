@@ -28,7 +28,7 @@ I am passionate about writing **clean code, enhancing user experience**, and con
 class AboutMe {
   const myTools = {
     "Frontend" : { "HTML", "CSS", "Bootstrap", "Tailwind", "React" },
-    "Backend" : { "NodeJS", "Laravel", "PHP" },
+    "Backend" : { "NodeJS", "Laravel", "PHP", "Python" },
     "Database" : { "MySQL" },
     "OtherTools" : { "Git" }
   };
